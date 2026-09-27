@@ -1,0 +1,6 @@
+{
+  "name": "SimpMusic",
+  "description": "Clean, beautiful music streaming player with rich discovery, synchronized lyrics, audio visualizer, playlists, and offline library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
